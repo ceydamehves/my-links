@@ -1,57 +1,42 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Maker @links.dev & Software Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Ceyda Mehves",
+  "description": "Computer Engineer",
+  "image_url": "https://avatars.githubusercontent.com/u/34853783",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/ceyda-mehves/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/ceydamehves/",
       "icon": "github"
     },
     {
-      "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
-      "icon": "twitter"
-    },
-    {
       "title": "Buy me a coffee",
-      "url": "http://bit.ly/3G4193Q",
+      "url": "https://www.patreon.com/ceydamehves",
       "icon": "mug"
     },
     {
       "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
+      "url": "https://www.instagram.com/ceydamehves",
       "icon": "instagram"
     },
     {
-      "title": "Medium",
-      "url": "http://bit.ly/3I1ZYnV",
-      "icon": "medium"
-    },
-    {
       "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
+      "url": "https://www.youtube.com/c/CeydaKeklik",
       "icon": "youtube"
     },
     {
-      "title": "Side Project",
-      "url": "http://bit.ly/3hNX2AK",
-      "icon": "link"
-    },
-    {
-      "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
+      "title": "Shopier",
+      "url": "www.shopier.com/cmoun",
       "icon": "click"
     },
     {
-      "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
-      "icon": "spotify"
+      "title": "Play-Store",
+      "url": "https://play.google.com/store/apps/developer?id=ceydamehves",
+      "icon": "playstore"
     }
   ]
 }
